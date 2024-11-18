@@ -16,9 +16,9 @@
     "inquirer": "^6.0.0",
     "joi": "^13.1.0",
     "joi-extension-semver": "^2.0.0",
-    "yargs": "^13.2.4"
+    "yargs": "^13.3.0"
   },
   "devDependencies": {
-    "jest": "^26.6.3"
+    "jest": "^27.0.0"
   }
 }
